@@ -1,0 +1,127 @@
+F S G   B U N D L E
+===================
+
+built on:     Fri Jan 11 03:14:45 CST 2019
+built by:     hudsonmd
+build mach:   ilclbld117
+product:      m8953
+flavor:       customer
+mcfg_ver:     24.45
+
+COMMENTS
+--------
+Release FSG-8953-24.45
+
+RECIPE
+------
+0.img: 586ec8afa9909a90c811190dffd804a799ea6cd4 
+airtel_ind_volte: 101006cdcfdd041b2c8df92b79a91d1c0e7c3159 
+ais_tha: d21b854629453622fcb8a20674dc8b2abf2131f5 
+altan_mex_volte: 747a04d22afa3a670470ce0584738bf4b5f1906a 
+apt_twn: b1b1d44dd7f08abad81ae21f906ccfcec6055900 
+att_cricket_non_ims: 9119dd22089ac8ee8881a610b8c2ac902b690097 
+att_mex_volte: 1aad01a9c90d9b9f63a7bc213948777119dba750 
+att_usa: 3fd1cc4eb0aeaf3f5b8ee1c7df63b62188a87b0b 
+avantel_col_volte: aa9a4a314cf21abc1cbe7bcd00821360972c8b00 
+beeline_rus: 0730fc62729a3d246f0359b811152d2cd1ca5c89 
+bell_can_ims: c7bf91aa732a4584b708a78fe3d15e853226d0e9 
+bouygues_fra: a8d048328fd3ba6b535624089ca83b0810c723a7 
+cht_twn: 7ad3192ef8eda849787a799263ea32da00225a62 
+claro_arg: 0eda0f8b94d59440841bc30daef929a7bf58f28d 
+claro_bra_wfc: 1991e87cd37828f7a159809387f8595034059f7f 
+claro_chl_volte: c5c49408ba29cc9e62a26c92795ed87d383a3a63 
+claro_col: 8f79d56968241e0e91ae130d4903839e1d34ef1b 
+claro_per_volte: 189d337f64a3ac2ad534e30e8a6d6e1332d84d15 
+cmcc_chn: 92ea226d0851309a51c6a9b34fd22ca6260c7d1a 
+cosmote_grc: 87da1b6e5ffa5f616f904c0d54941015924e26c8 
+csl_hkg_volte: e89713b6c640bfc6df2fffa8d062503208a539fa 
+ct_chn: 4b810ebb3656bf0895464f2dde3226939dde7ebc 
+ct_epsonlylab: 5b9c1b6e164a7bc1306e06ba8b726057c6476c4a 
+ct_testnoapnlab: 910b7f5ff7c34b5ea475dd58fd057b34b8f8eee4 
+ct_volteconflab: dd3fe91c4a70d0d5800d4f79223b603119a5918d 
+cu_chn: 7f4a0455776260a5760273b53a32f70ed032f0b1 
+deen_apac.img: dc133a85438f8cec3fc8cbce07a2d34ff35f710f 
+deen_dsds_apac.img: 8744c9bf6c551395c555c6329e4626adf250c3f7 
+deen_dsds_china.img: 94ab936301929a697c10b75b1c435290976ab2ce 
+deen_dsds_latam.img: cfb3b96ce64e9b22cfb2b086420820d77afa4c38 
+deen_latam.img: f6f55d0cd5d40543f0813ca2e9016aea911322f8 
+deg2_nzl_wfc: 1052a897ec609b88d26a095f8d9ba4fb7c13dd96 
+digim_rou: 1bf777e6c108430a92bf3f252cabb09abdba337b 
+docomo_jpn_volte: acd07c954bd48a9141ce1d3a16882c3a5dd06de6 
+dtac_tha: 8bedd6b73122be26cf6b1f3af52a1a79c367c5bb 
+ee_gbr: a6c38eec5691d4426caba656982d696c0316378e 
+elisa_fin: cb56d28619b47365eee7ade2e36bb5c831b20bdb 
+emea_apac_super: e940b9279f869337934e4830d04194bb54be8a1e 
+entel_per_volte: c3c6b3e19531af768009dac77bb3b709c6c26553 
+etisalat_are: c5572ca26f687cb3b1cdb7d00e17fa93c4a3736d 
+fido_can_ims: 592c6acc834449e248ba11cfaf000f59715e319a 
+freedom_can_ims: fcf8948612629e5f57b3ded468fe29f0d117171b 
+hi3g_dnk: ac63c79e01206d158df114545a6803db4bfaa001 
+hi3g_swe: ed63564a76a08e52b37c5ab0ab689c213cabb1e0 
+hutchison_hkg: 8673399ef9ac9541810691e81dbb357d1e377bd1 
+idea_volte: 1f761eace6e5a083197dafcbcbf5ac22a26aab83 
+jtl_ken: 29936b0442848da27f5dc2b5b336b25857a4e781 
+kddi_jpn_volte: ae4126ed4fd60b22173ceb731e20ad0b58f822ff 
+m1_sgp: 6e49455db55955716608055a8710ac5871e62f54 
+megafon_rus: 2ebb4e1e670f3a21d6ca7ccee983ac1742092f73 
+movistar_arg: dfbd77d4cbe5d633c41cb0e793ff774683257f35 
+movistar_chl: cbbcb1367fa0e0b760e0af2c37e2d2d69460b481 
+movistar_col: 8476f4a1620d1d2655c92df1422f72fe706b05f7 
+movistar_ecu_volte: c2e4c766b25318b8a6c28c77bf6921e0aa0e24e6 
+movistar_mex_volte: ace9ccfbf6f1d20a9e1f45366679ad07222418cd 
+movistar_per: 3e7734b9850bf49af5633cfc7aa26e5fde42a48a 
+mts_rus: 6dc5d5e98a1f8282140ae8848bee57319a61d613 
+o2_cz: b3015b395b11124718f8361fd9f9b92db9b53249 
+o2_deu: 3cb3129198fbc5ca356fdc97c79751134e619344 
+orange_fra_volte: 50d6ecd57964ce1a8039bbee7107cb113637bab3 
+orange_spain: 14db048a59854b849193765e3da6ea63b19b63f5 
+p1_mys_volte: 6fbfb4eb1b02661be80e08aa01011c9ee906ca72 
+personal_arg: 0d9e57448f12f9e800c8e17a2cb15d7c53fc4af6 
+porto_connecta_bra_wfc: a86bebe40e803623b9d4ce3167ffc057124341a2 
+rjio_ind: 9ddc5f378b867ca65254bc40f2248dc3fe58b1f9 
+rogers_can_ims: 1eecc7bd73bcc8a54c6f9b5daa0ebdf052ba81d3 
+sasktel_can_ims: 2ad6e6c3ba07d10e5c1618af2e7900aaea05b1e5 
+sbm_jpn_volte: 48940ad7bfb2553b9e10345eaf93b33d62d9daab 
+sfr_volte_fra: 40012cdcc40aaf6df1df9cc1718fe7969b580198 
+smartfren_idn_volte: 843f1ff8b24605bd1fe8ded45c0aa330d2cae50c 
+super: 6280560e50bd2fc3025a84742025f419be379f68 
+superset: 08c78b7025aa73c507af20c8645f54d2e61b9127 
+tdc_dnk: f049b5f17093fecb7a2bae2a40785238ab904a38 
+telcel_mex: 8666513110cc0e0b761a0246b5b7e710e2609694 
+tele2_nld: 53c5e5545decb90be5739274b01e5ef88c1fddd6 
+tele2_rus: 26992acc368ccc4388128ddb34b7e42b4379d4c1 
+tele2_swe: 00fcb96ddabf3f15b06beecfd3e4fef63d064cf3 
+telekom_hun_volte: 878c8aaeb40b4d50d5b1412f2a3d4c25893e4b60 
+telekom_svk_volte: c843338f3322a872704503afc9b3a5d173591cb2 
+telekom_svn_volte: c7fb798d5bf4aca2177f84e6100eb4ee38fb86e4 
+telenor_bgr: 1a552ab534cc9cd4db1bd4ac2cba7d6a8e056d4f 
+telenor_dnk: ab932341992866d3ebe24ce00e891388c71059df 
+telenor_nor: 55f0fee22e87a215220a4d2a641fa96456ccd99c 
+telenor_swe: 3fd5ec73c924492307e6b7d6c7ebdfd0372474a1 
+telia_dnk: 2c34a1c798ff2643a3560bef293d05ad7d699f00 
+telia_fin: f5557bca58db8bc0d5939847b03dc58da4368b35 
+telia_nor: c86f5c282cedaa5bd0a73f932e6fff5849ac2e57 
+telia_swe: 34595cba15147a96f3587b940ede32ca866cccf2 
+telkom_zaf: 41ff4d7d79c6c765815c44f72ef375f723c76f38 
+telstra_aus_volte: 4dfbba7cda567e394cfe8a0e2d00490cf7359452 
+telus_can_ims: 914f21f7352f91fc887be8e3e7dfbdc8c1f5e0ad 
+tim_bra: dc8e1450947f555e0235ffceee3ffb2324b806fd 
+tim_italy: 3ac67f3be5c6feb56cd5a8256a2b690fa7e63067 
+tmo_cze: 6d95c9773b2556db3fe3a20015d4d22490b6c8d4 
+tmo_deu: a5aae559c172d454535a62f9bda84e3c00734f7d 
+tmo_nld_volte: 61d5cd5fd3e008337e3273b0fcdeabb92b8c0148 
+tmo_pol: 6cb37c5aad2eb07498a143f5c3f43ee7263598ac 
+tmo_usa: fbd21baafe3e52caecd36d89b5a18fc1dc451a14 
+truemove_tha: bae244d90c1dc48581ff424a28bbb1eb4f57bdef 
+vf_cz: 8365c3b20d55ef0810bff94db70b74fb81567fb9 
+vf_deu: 2cbcf314acc833ed7dfbe5658bfa25c2392c9cfa 
+vf_esp: 09f34271af4c2296535eff11cdb0ee43e6b5ac48 
+vf_italy: e00d335dba11b2fa0ff4286bf5fb2bcf2c7e4002 
+vha_aus_volte: 93132f7f9ac92cc2bf9a5416f056c34129e8b541 
+videotron_can_ims: 80cceb925a471bd4ec85b865d3fe20c9cd05db28 
+vivo_bra: e8682d29776bf9f8228cfb642af1b9f8e6a1f575 
+vodacom_zaf: a7fb0b148517d7fe6022cfaa1ac372b8a324ec76 
+vodafone_ind_volte: bc1be7ba652d6db61ac97342fc8352a28b128bc6 
+wom_chl_nonims: 28f60064464fb2c216c2575e4e91f39bf2923b88 
+ytl_mys: 6787db825b023c8a2fc093c4af1e49cb679e7be6 
+zain_sau: 793e5c1b3083279e1bd39946ec789ea30e637e1f 

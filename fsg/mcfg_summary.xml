@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<McfgCarrierInfo host="ilclbld117" time="2019-01-11T01:46:58-0600" user="hudsonmd">
+  <Carrier id="203" name="ACGLTE_USA" sha1="797a03da22952b511e1d5e9ff8bfe89a1e1013aa" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506560</QualcommRevision>
+    <IINList sizeOf="12" type="uint32">8901230 8911300 8901581 8901921 891910 891420 891470 8901930 890134 89012801 8901570 890167</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 120</PLMNList>
+  </Carrier>
+  <Carrier id="26" name="AIRTEL_IND" sha1="876713f47da89b0b9a3cfdbffa79690a60af8518" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117512704</QualcommRevision>
+    <IINList sizeOf="24" type="uint32">899102 899103 899110 899116 899131 899140 899145 899149 899151 899152 899153 899154 899155 899156 899170 899190 899192 899193 899194 899195 899196 899197 899198 899100</IINList>
+    <PLMNList sizeOf="46" type="uint16">404 2 404 3 404 10 404 16 404 31 404 40 404 45 404 49 404 70 404 90 404 92 404 93 404 94 404 95 404 96 404 97 404 98 405 51 405 52 405 53 405 54 405 55 405 56</PLMNList>
+  </Carrier>
+  <Carrier id="26" name="AIRTEL_IND_VOLTE" sha1="ca6ade6eb36da70d832cc33bd049f0e13fcfb39d" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="24" type="uint32">899102 899103 899110 899116 899131 899140 899145 899149 899151 899152 899153 899154 899155 899156 899170 899190 899192 899193 899194 899195 899196 899197 899198 899100</IINList>
+    <PLMNList sizeOf="46" type="uint16">404 2 404 3 404 10 404 16 404 31 404 40 404 45 404 49 404 70 404 90 404 92 404 93 404 94 404 95 404 96 404 97 404 98 405 51 405 52 405 53 405 54 405 55 405 56</PLMNList>
+  </Carrier>
+  <Carrier id="26" name="AIRTEL_VOLTE" sha1="97cafd244754142dc6ad33abf3d149cdda349248" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117512704</QualcommRevision>
+    <IINList sizeOf="24" type="uint32">899102 899103 899110 899116 899131 899140 899145 899149 899151 899152 899153 899154 899155 899156 899170 899190 899192 899193 899194 899195 899196 899197 899198 899100</IINList>
+    <PLMNList sizeOf="46" type="uint16">404 2 404 3 404 10 404 16 404 31 404 40 404 45 404 49 404 70 404 90 404 92 404 93 404 94 404 95 404 96 404 97 404 98 405 51 405 52 405 53 405 54 405 55 405 56</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="AIS_THA" sha1="245e4010fac2baa38191326b4a69c444e976d4aa" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117517824</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">896603 896603</IINList>
+    <PLMNList sizeOf="4" type="uint16">520 3 520 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="AIS_THA_VOLTE" sha1="a9d53c73058c16eabd1f131eb2cbb08e8e061ba5" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117517824</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">896603 896603</IINList>
+    <PLMNList sizeOf="4" type="uint16">520 3 520 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="ALTAN_MEX_VOLTE" sha1="a28979ab0becc9a9c2a3d43862a20f5ee37cfe18" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895214</IINList>
+    <PLMNList sizeOf="2" type="uint16">334 140</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="APT_TWN" sha1="5faa21452d172400a87951d345fa42e708fe9168" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117522944</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8988605 8988605</IINList>
+    <PLMNList sizeOf="2" type="uint16">466 5</PLMNList>
+  </Carrier>
+  <Carrier id="3" name="ATT_CRICKET_NON_IMS" sha1="d8e0cd9a8ab4c0e19854a1f3c08482f313c1c1eb" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506816</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8901150</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 150</PLMNList>
+  </Carrier>
+  <Carrier id="239" name="ATT_MEX_NONIMS" sha1="805ccd1d78bfe0f54168cd63825b6f03a49969b9" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">8952050 8952070 8952090</IINList>
+    <PLMNList sizeOf="8" type="uint16">334 50 334 70 334 90 901 44</PLMNList>
+  </Carrier>
+  <Carrier id="239" name="ATT_MEX_VOLTE" sha1="9ab5374dbd543ae67ce113bb9f4018606acf04a7" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">8952050 8952070 8952090</IINList>
+    <PLMNList sizeOf="8" type="uint16">334 50 334 70 334 90 901 44</PLMNList>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA" sha1="6b96fb06b00ad1d8672b9f8a434ea4f26a673f52" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506816</QualcommRevision>
+    <IINList sizeOf="11" type="uint32">8901030 8901280 8901438 8931017 8931041 8901170 890138 8901410 8901560 8901680 8901180</IINList>
+    <PLMNList sizeOf="24" type="uint16">310 30 310 70 310 90 310 170 310 280 310 380 310 410 310 560 310 680 310 980 310 950 311 180</PLMNList>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA_CRICKET" sha1="7d25a97ceaa6f1279f4e8007265db5e70998a501" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506864</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8901150</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 150</PLMNList>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA_CRICKET_DEFAULT" sha1="acf3056abff9027f4862be6bae7492309cc66022" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506864</QualcommRevision>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA_CRICKET_RETAIL" sha1="8e45949d466620b90ebe5ebba60a7b33ace4dbc4" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506864</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8901150</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 150</PLMNList>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA_FIRSTNET" sha1="4e93384dbcd232690b27d6c252283ed2b0ecf718" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506864</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8901100 8913100</IINList>
+    <PLMNList sizeOf="4" type="uint16">313 100 312 670</PLMNList>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA_IMS" sha1="18fe9e51f31b4e3d5daec2e59f4e2d5ffc5599f4" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506864</QualcommRevision>
+    <IINList sizeOf="11" type="uint32">8901030 8901280 8901438 8931017 8931041 8901170 890138 8901410 8901560 8901680 8901180</IINList>
+    <PLMNList sizeOf="24" type="uint16">310 30 310 70 310 90 310 170 310 280 310 380 310 410 310 560 310 680 310 980 310 950 311 180</PLMNList>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA_IMS_DEFAULT" sha1="ef90a2545c9988b47b1caa4f63fc828f6f912b22" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506864</QualcommRevision>
+  </Carrier>
+  <Carrier id="3" name="ATT_USA_RETAIL" sha1="8f03798fc143c43a57ea274e6812f82e514ca089" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506864</QualcommRevision>
+    <IINList sizeOf="11" type="uint32">8901030 8901280 8901438 8931017 8931041 8901170 890138 8901410 8901560 8901680 8901180</IINList>
+    <PLMNList sizeOf="24" type="uint16">310 30 310 70 310 90 310 170 310 280 310 380 310 410 310 560 310 680 310 980 310 950 311 180</PLMNList>
+  </Carrier>
+  <Carrier id="212" name="AVANTEL_COL_VOLTE" sha1="afa5e5ecf0d5b8b14325bcc8eeae4822a622c2f6" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">8957130 895773213</IINList>
+    <PLMNList sizeOf="2" type="uint16">732 130</PLMNList>
+  </Carrier>
+  <Carrier id="241" name="BEELINE_RUS" sha1="41f571d65d3882d23fc4467e7af492b8184d7f23" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8970199</IINList>
+    <PLMNList sizeOf="2" type="uint16">250 99</PLMNList>
+  </Carrier>
+  <Carrier id="17" name="BELL_CAN" sha1="8d4762270f9a55de2d4115f72140c4ee53c58a21" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="5" type="uint32">89302610 89302780 89302630 89302640 89302690</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 610</PLMNList>
+  </Carrier>
+  <Carrier id="17" name="BELL_CAN_IMS" sha1="5f2177c2ea7b3c2fb23b95686505e4a6d93af5be" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117524224</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">89302610</IINList>
+    <PLMNList sizeOf="8" type="uint16">302 610 302 651 302 630 302 640</PLMNList>
+  </Carrier>
+  <Carrier id="17" name="BELL_CAN_VOLTE" sha1="7d4e007b7371ba58327d7a5be7bedfac92d4af3f" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117524224</QualcommRevision>
+    <IINList sizeOf="5" type="uint32">89302610 89302780 89302630 89302640 89302690</IINList>
+    <PLMNList sizeOf="6" type="uint16">302 610 302 630 302 640</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="BOUYGUES_FRA" sha1="8bc7361bf5005348dac5d3eb0e250b91be957b76" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117521152</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">893320 893320</IINList>
+    <PLMNList sizeOf="6" type="uint16">208 20 208 21 208 88</PLMNList>
+  </Carrier>
+  <Carrier id="24" name="CHINA_TESTLAB" sha1="92aef4fabd74dfb4de349b2dfcbe0ae790739ced" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514256</QualcommRevision>
+  </Carrier>
+  <Carrier id="254" name="CHT_TWN" sha1="d28c03b018dd06c2cf21fb791b835a8e38dcb5de" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8988692</IINList>
+    <PLMNList sizeOf="2" type="uint16">466 92</PLMNList>
+  </Carrier>
+  <Carrier id="226" name="CLARO_ARG" sha1="d21f448480ae8399e1786fd312f0d941452bbe5b" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895431</IINList>
+    <PLMNList sizeOf="2" type="uint16">722 310</PLMNList>
+  </Carrier>
+  <Carrier id="226" name="CLARO_ARG_VOLTE" sha1="245b237537b4d944c7f16f32a32f64785544a61c" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895431</IINList>
+    <PLMNList sizeOf="2" type="uint16">722 310</PLMNList>
+  </Carrier>
+  <Carrier id="226" name="CLARO_ARG_WFC" sha1="d587b940333a94c60d57e137ff9fa1ccaa31925e" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895431</IINList>
+    <PLMNList sizeOf="2" type="uint16">722 310</PLMNList>
+  </Carrier>
+  <Carrier id="225" name="CLARO_BRA" sha1="6dc78cd4dec497ecbacbe4a46da4dfa3bdc4c4cf" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">8955050 8955053</IINList>
+    <PLMNList sizeOf="2" type="uint16">724 5</PLMNList>
+  </Carrier>
+  <Carrier id="225" name="CLARO_BRA_WFC" sha1="081b3712294e3a8924b0c49b1221b268663cfddd" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">8955050 8955053</IINList>
+    <PLMNList sizeOf="2" type="uint16">724 5</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CLARO_CHL_VOLTE" sha1="699e7551b5d3d8ae16853075382b9c997fa23caf" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895603</IINList>
+    <PLMNList sizeOf="2" type="uint16">730 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CLARO_COL" sha1="a6ccc6014bc629dd3ec09d57c3011c73ed272809" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117511744</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8957101</IINList>
+    <PLMNList sizeOf="2" type="uint16">732 101</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CLARO_COL_WFC" sha1="98cb20801f291b2a80c46860b1ed46d279caa524" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117511744</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8957101</IINList>
+    <PLMNList sizeOf="2" type="uint16">732 101</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CLARO_PER_VOLTE" sha1="a0c8f93c99310c8c4beb4e45271fff88a67ff2bd" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">895110 895110</IINList>
+    <PLMNList sizeOf="2" type="uint16">716 10</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CLARO_URY" sha1="332da6871dca0215b31892669335e69a1d6f911c" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">895910 8959810</IINList>
+    <PLMNList sizeOf="2" type="uint16">748 10</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CLARO_URY_VOLTE" sha1="5dc409661582ce08dd51161e7bff5437f274896f" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">895910 8959810</IINList>
+    <PLMNList sizeOf="2" type="uint16">748 10</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CLARO_URY_WFC" sha1="63920f035c36d4728f8f729d18d4ed1d6fc55842" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">895910 8959810</IINList>
+    <PLMNList sizeOf="2" type="uint16">748 10</PLMNList>
+  </Carrier>
+  <Carrier id="24" name="CMCC_CHN" sha1="880d8b58b654b6cd9d916eecb23379ba31152b6a" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514256</QualcommRevision>
+    <IINList sizeOf="5" type="uint32">898212 898521 898600 898602 898607</IINList>
+    <PLMNList sizeOf="16" type="uint16">460 0 460 2 460 7 460 8 454 12 454 13 460 4 460 13</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="COSMOTE_GRC" sha1="11a0a5c41d3f361cda532d42317f7a66bb021559" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514177</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">893001</IINList>
+    <PLMNList sizeOf="2" type="uint16">202 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="CSL_HKG_VOLTE" sha1="afa19c46af2bea7d606948c33f9b446d5f7351b7" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518592</QualcommRevision>
+    <IINList sizeOf="4" type="uint32">8985200 8985210 8985216 8985219</IINList>
+    <PLMNList sizeOf="4" type="uint16">454 0 454 19</PLMNList>
+  </Carrier>
+  <Carrier id="19" name="CT_CHN" sha1="57c6fbee8fe5afa0b68f54458106f2ddb502fea7" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117511136</QualcommRevision>
+    <IINList sizeOf="4" type="uint32">8985302 8985307 898603 898611</IINList>
+    <PLMNList sizeOf="14" type="uint16">460 3 460 5 460 11 460 12 455 2 455 7 460 59</PLMNList>
+  </Carrier>
+  <Carrier id="21" name="CU_CHN" sha1="016b0c0464e8e47c83293b5a02e55c213d0b1e05" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117511424</QualcommRevision>
+    <IINList sizeOf="3" type="uint32">898601 898606 898609</IINList>
+    <PLMNList sizeOf="6" type="uint16">460 1 460 9 460 6</PLMNList>
+  </Carrier>
+  <Carrier id="204" name="DEG2_NZL_WFC" sha1="bfa318b33644058c5d8513777ac635bb758c251f" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">896424</IINList>
+    <PLMNList sizeOf="2" type="uint16">530 24</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="DIGIM_ROU" sha1="994c07fa270cb85ea8f502d83f080b7275109d25" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894005</IINList>
+    <PLMNList sizeOf="2" type="uint16">226 5</PLMNList>
+  </Carrier>
+  <Carrier id="234" name="DOCOMO_JPN_VOLTE" sha1="afe9982c92c3cbd5c5531df41fc500aea4bcdc16" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8981100</IINList>
+    <PLMNList sizeOf="2" type="uint16">440 10</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="DTAC_THA" sha1="f7654ed559fcc31086520fc79cd6d9b4fa7d9abf" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518336</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">896605 896605</IINList>
+    <PLMNList sizeOf="4" type="uint16">520 5 520 18</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="DTAC_THA_VOLTE" sha1="a2eb78eb56cc5f96f1096c47adb8192578df95c4" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518336</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">896605 896605</IINList>
+    <PLMNList sizeOf="4" type="uint16">520 5 520 18</PLMNList>
+  </Carrier>
+  <Carrier id="34" name="EE_GBR" sha1="e1aab5a91c94da907731017dbcba0a2ce231c980" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514752</QualcommRevision>
+    <IINList sizeOf="3" type="uint32">894412 894430 894429</IINList>
+    <PLMNList sizeOf="14" type="uint16">234 30 234 33 234 34 234 31 234 32 235 1 235 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="ELISA_FIN" sha1="ca981332aca747c0b8b1b765efc28ec7f6a56274" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117527040</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8935802 8935809</IINList>
+    <PLMNList sizeOf="4" type="uint16">244 5 244 21</PLMNList>
+  </Carrier>
+  <Carrier id="232" name="ENTEL_PER_VOLTE" sha1="7c5e73a3fa935fb317b3fdee9c9680550aac6f69" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895117</IINList>
+    <PLMNList sizeOf="2" type="uint16">716 17</PLMNList>
+  </Carrier>
+  <Carrier id="235" name="ETISALAT_ARE" sha1="0892697acd573bd2a4ffd3ef7191a41adf2f2e7b" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">899711</IINList>
+    <PLMNList sizeOf="2" type="uint16">424 2</PLMNList>
+  </Carrier>
+  <Carrier id="216" name="EU_G2L" sha1="1034b3396a961096b53e845535798cd92a8552d4" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">893401 894921 894922</IINList>
+    <PLMNList sizeOf="6" type="uint16">214 3 262 3 262 7</PLMNList>
+  </Carrier>
+  <Carrier id="213" name="EU_RETAIL" sha1="88de2df80de1da273da52ae68bfe654c4152a126" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">894412 894420 894430</IINList>
+    <PLMNList sizeOf="6" type="uint16">234 20 234 30 234 33</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="FI_H3G_HK" sha1="503528345ca485791a136f83ebb5c11aa22dcb97" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117519872</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8985203 8985204</IINList>
+    <PLMNList sizeOf="2" type="uint16">454 3</PLMNList>
+  </Carrier>
+  <Carrier id="210" name="FI_H3G_UK" sha1="1e7913f69840209b08fd8149cf9a856ca282c954" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894420</IINList>
+    <PLMNList sizeOf="2" type="uint16">234 20</PLMNList>
+  </Carrier>
+  <Carrier id="2" name="FI_SPRINT" sha1="ba5a9d59aa9a3a0a95be47a4790f4a0fab335180" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506560</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8901120</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 120</PLMNList>
+  </Carrier>
+  <Carrier id="5" name="FI_TMO" sha1="3d05afb50658d605b4b502e4875fd2e93e3f48af" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507328</QualcommRevision>
+    <IINList sizeOf="19" type="uint32">8901026 8901160 8901260 8901490 891160 891200 891210 891220 891230 891240 891250 891260 891270 891310 891490 891660 891800 8944302 8949024</IINList>
+    <PLMNList sizeOf="26" type="uint16">310 160 310 200 310 210 310 220 310 230 310 240 310 250 310 260 310 270 310 310 310 490 310 660 310 800</PLMNList>
+  </Carrier>
+  <Carrier id="32" name="FI_USC" sha1="648d8df48a52f5d9ada0c99c533e33bc1202bb92" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117512192</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8901580 8901730</IINList>
+    <PLMNList sizeOf="44" type="uint16">310 730 311 220 311 580 311 220 311 221 311 222 311 223 311 224 311 225 311 226 311 227 311 228 311 229 311 581 311 582 311 583 311 584 311 585 311 586 311 587 311 588 311 589</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="FIDO_CAN_IMS" sha1="5550ee15b820ee40b505ff8d1eeddcc42ff1ad4b" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117524480</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8930237</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 370</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="FREEDOM_CAN_IMS" sha1="41bc1c5a4d46ef20f4e281dc2462154d4ddd3bec" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8930249</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 490</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="HI3G_DNK" sha1="a691d0ddf4a928878bce6a44ee685b053f6a1558" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117516928</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894506</IINList>
+    <PLMNList sizeOf="2" type="uint16">238 6</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="HI3G_SWE" sha1="c0fffbc8d30d4ba8616291bb6dec3d6bba501031" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894607</IINList>
+    <PLMNList sizeOf="2" type="uint16">240 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="HUTCHISON_HKG" sha1="efc6fc853bb4a4a28462e955959fd7d465f60282" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117519872</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8985203 8985204</IINList>
+    <PLMNList sizeOf="2" type="uint16">454 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="HUTCHISON_HKG_VOLTE" sha1="17bedfda7f67b589c9036fc49690c477e753d596" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117519872</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8985203 8985204</IINList>
+    <PLMNList sizeOf="2" type="uint16">454 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="IDEA_VOLTE" sha1="a5ff86961e1151d0c2db63ee1eb90be2b08c744c" version="M8998_MCFG_FLEX_24.45">
+    <PLMNList sizeOf="44" type="uint16">404 4 404 7 404 12 404 14 404 19 404 22 404 24 404 44 404 56 404 78 404 82 404 87 404 89 405 70 405 799 405 845 405 846 405 848 405 849 405 850 405 852 405 853</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="JTL_KEN" sha1="59c9871356aefef0dd37ec7f84288674e5104628" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8925410</IINList>
+    <PLMNList sizeOf="2" type="uint16">639 10</PLMNList>
+  </Carrier>
+  <Carrier id="240" name="KDDI_JPN_VOLTE" sha1="8d337ec77c2c1bde514ff369c87f214f5d86b473" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8981300</IINList>
+    <PLMNList sizeOf="4" type="uint16">440 50 440 51</PLMNList>
+  </Carrier>
+  <Carrier id="202" name="LRA_OMPR_USA" sha1="e5b024f9665e2fc8b24e6a660dd1291994ff4c9c" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506304</QualcommRevision>
+    <PLMNList sizeOf="2" type="uint16">330 120</PLMNList>
+  </Carrier>
+  <Carrier id="202" name="LRA_USA" sha1="8e14fe79d5c61a07e297a9a636abd016bc18745e" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506304</QualcommRevision>
+    <IINList sizeOf="4" type="uint32">891480 891004 891005 891012</IINList>
+    <PLMNList sizeOf="10" type="uint16">310 590 310 890 311 480 311 270 312 770</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="M1_SGP" sha1="960999e0de7156d53778bfeb4a76f4ea56a0bd12" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518848</QualcommRevision>
+    <IINList sizeOf="4" type="uint32">896503 896503 896501 896505</IINList>
+    <PLMNList sizeOf="2" type="uint16">525 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="M1_SGP_VOLTE" sha1="52d6e237bcc8624434ae5ebb51624a05964777bb" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518848</QualcommRevision>
+    <IINList sizeOf="4" type="uint32">896503 896503 896501 896505</IINList>
+    <PLMNList sizeOf="2" type="uint16">525 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="M1_SGP_WFC" sha1="09a4f90ad18002f06b410d05aca811ed0386106a" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518848</QualcommRevision>
+    <IINList sizeOf="4" type="uint32">896503 896503 896501 896505</IINList>
+    <PLMNList sizeOf="2" type="uint16">525 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="MEGAFON_RUS" sha1="98a48d33601fe44fbfc030d9e62a3dd8c9a11c6c" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117521408</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8970102</IINList>
+    <PLMNList sizeOf="2" type="uint16">250 2</PLMNList>
+  </Carrier>
+  <Carrier id="221" name="MOVISTAR_ARG" sha1="1816355cad68aeaf8f4c3266040510a9dce94c21" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895407</IINList>
+    <PLMNList sizeOf="2" type="uint16">722 7</PLMNList>
+  </Carrier>
+  <Carrier id="221" name="MOVISTAR_ARG_VOLTE" sha1="8d4cde64144ed6575ac2c52e7c921285ec75b986" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895407</IINList>
+    <PLMNList sizeOf="2" type="uint16">722 7</PLMNList>
+  </Carrier>
+  <Carrier id="221" name="MOVISTAR_ARG_WFC" sha1="d8949505c1ce2e73746254c8c35df5cdb98ddf32" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895407</IINList>
+    <PLMNList sizeOf="2" type="uint16">722 7</PLMNList>
+  </Carrier>
+  <Carrier id="244" name="MOVISTAR_CHL" sha1="2bc85231c8cbaf4583078890924d32b3dd325cd2" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">895602 895607</IINList>
+    <PLMNList sizeOf="4" type="uint16">730 2 730 7</PLMNList>
+  </Carrier>
+  <Carrier id="222" name="MOVISTAR_COL" sha1="06f86cf63a289bfe693b57043c386dff70c020a3" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8957123</IINList>
+    <PLMNList sizeOf="2" type="uint16">732 123</PLMNList>
+  </Carrier>
+  <Carrier id="222" name="MOVISTAR_COL_VOLTE" sha1="17ceadde6d622ed39575a3336332fd4c03e0a8c4" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8957123</IINList>
+    <PLMNList sizeOf="2" type="uint16">732 123</PLMNList>
+  </Carrier>
+  <Carrier id="222" name="MOVISTAR_COL_WFC" sha1="fba1d2d8b01325eec985340d980d225d01ac2a24" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8957123</IINList>
+    <PLMNList sizeOf="2" type="uint16">732 123</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="MOVISTAR_ECU_VOLTE" sha1="d548498a3850545cb4114598a27bb5b4dd3980c7" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8959300</IINList>
+    <PLMNList sizeOf="2" type="uint16">740 0</PLMNList>
+  </Carrier>
+  <Carrier id="237" name="MOVISTAR_MEX_VOLTE" sha1="722b7f34cd0d8ee64ea8fa8542af42d1a9b63cad" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">895203 895203</IINList>
+    <PLMNList sizeOf="4" type="uint16">334 3 334 30</PLMNList>
+  </Carrier>
+  <Carrier id="223" name="MOVISTAR_PER" sha1="96ce4fc2f5e174fae68c3d3f9ad622ac8ceb6716" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895106</IINList>
+    <PLMNList sizeOf="2" type="uint16">716 6</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="MOVISTAR_PER_VOLTE" sha1="2bd7400c2be08422dce5d2500bbaa16b660d99cd" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895106</IINList>
+    <PLMNList sizeOf="2" type="uint16">716 6</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="MOVISTAR_URY" sha1="04797f463d01e0a59b27b62d4eb5b0c73cc92698" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8959807</IINList>
+    <PLMNList sizeOf="2" type="uint16">748 7</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="MOVISTAR_URY_VOLTE" sha1="7488fd666129c3454b5151e8ba560b8c68c88167" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8959807</IINList>
+    <PLMNList sizeOf="2" type="uint16">748 7</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="MOVISTAR_URY_WFC" sha1="4d3fcda17c637ade89515b71b36526ba27a712a0" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8959807</IINList>
+    <PLMNList sizeOf="2" type="uint16">748 7</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="MTS_RUS" sha1="d5c32df678e89eb18bfc01cc4e1e2a47d9bc9b5d" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8970101</IINList>
+    <PLMNList sizeOf="2" type="uint16">250 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="O2_CZ" sha1="7c93af116152fdc8449b4cbf5268982cfd790607" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894202</IINList>
+    <PLMNList sizeOf="2" type="uint16">230 2</PLMNList>
+  </Carrier>
+  <Carrier id="231" name="O2_DEU" sha1="840d6f60dbc8553764ffb79cebc5951ef1029d77" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117509312</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">894921 894922</IINList>
+    <PLMNList sizeOf="14" type="uint16">262 3 262 5 262 7 262 8 262 11 262 17 262 77</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="O2_GBR" sha1="200498437f786a5167aa6aab8616b5f469062049" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117509248</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">894411 894411</IINList>
+    <PLMNList sizeOf="2" type="uint16">234 10</PLMNList>
+  </Carrier>
+  <Carrier id="217" name="ORANGE_FRA" sha1="443c2c09e6b0858e50972d6c885dfc81116efe9e" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">893301</IINList>
+    <PLMNList sizeOf="4" type="uint16">208 1 208 2</PLMNList>
+  </Carrier>
+  <Carrier id="217" name="ORANGE_FRA_VOLTE" sha1="3dae9bcb801a5d02e1f09c6912f83c6ed64bc524" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117508896</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">893301</IINList>
+    <PLMNList sizeOf="4" type="uint16">208 1 208 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="ORANGE_POL" sha1="88e9c41c194c903831a5441354ff1e20c793f185" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117508960</QualcommRevision>
+  </Carrier>
+  <Carrier id="254" name="ORANGE_SPAIN" sha1="496d9cfbb329e843b29301248bd1ae597a4f82d4" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117508912</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">893401 893401</IINList>
+    <PLMNList sizeOf="2" type="uint16">214 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="ORANGE_SVK" sha1="4154ffd635042e80e78371586f8993d55ba47000" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8942101</IINList>
+    <PLMNList sizeOf="2" type="uint16">231 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="P1_MYS_VOLTE" sha1="c10c7659734687d2a49642af5d3bc324e0bba231" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117520640</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8960153</IINList>
+    <PLMNList sizeOf="2" type="uint16">502 153</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="PERSONAL_ARG" sha1="bb56e7f162b1720eba2b62158d198395a3e419cb" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895434</IINList>
+    <PLMNList sizeOf="6" type="uint16">722 34 722 340 722 341</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="PERSONAL_ARG_WFC" sha1="9b7c4ab7aa84b1fe64309f0c07dbf217cbf6c1d5" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895434</IINList>
+    <PLMNList sizeOf="6" type="uint16">722 34 722 340 722 341</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="PLAY_POL" sha1="6a1a58f118971e4da599afe329786f38cfcf897d" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894806</IINList>
+    <PLMNList sizeOf="2" type="uint16">260 6</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="PLAY_POL_VOLTE" sha1="6172a880e513219ac218fe42e6c5ec34e1789c30" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894806</IINList>
+    <PLMNList sizeOf="2" type="uint16">260 6</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="PLAY_POL_WFC" sha1="6350347c9403b6a845ad28f81904b6d5195ca4de" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894806</IINList>
+    <PLMNList sizeOf="2" type="uint16">260 6</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="PLUS_POL" sha1="c6ef6cc77a320f378801d35a572ab0bc03097d5f" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894801</IINList>
+    <PLMNList sizeOf="2" type="uint16">260 1</PLMNList>
+  </Carrier>
+  <Carrier id="233" name="PORTO CONNECTA BRAZIL" sha1="719491897e735a1699ae0054a1e0c37a4a3d4d37" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895554</IINList>
+    <PLMNList sizeOf="2" type="uint16">724 54</PLMNList>
+  </Carrier>
+  <Carrier id="233" name="PORTO CONNECTA BRAZIL WFC" sha1="096587f9f42bf06638ec5436f090fe7fd443104d" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895554</IINList>
+    <PLMNList sizeOf="2" type="uint16">724 54</PLMNList>
+  </Carrier>
+  <Carrier id="27" name="RJIO_IND" sha1="8e03a3db9ad07ec210d653c18a8d3c17f2720104" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117512960</QualcommRevision>
+    <PLMNList sizeOf="44" type="uint16">405 840 405 854 405 855 405 856 405 857 405 858 405 859 405 860 405 861 405 862 405 863 405 864 405 865 405 866 405 867 405 868 405 869 405 870 405 871 405 872 405 873 405 874</PLMNList>
+  </Carrier>
+  <Carrier id="219" name="ROGERS_CAN" sha1="cccd0b410e7e166bf523a94cb057d2872e96efdd" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="4" type="uint32">8930272 89302720 89302660 89302370</IINList>
+  </Carrier>
+  <Carrier id="219" name="ROGERS_CAN_IMS" sha1="c7f174f6c048d3d0bbc26b13a3b608b6db496676" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117524480</QualcommRevision>
+    <IINList sizeOf="3" type="uint32">8930272 89302720 89302660</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 720</PLMNList>
+  </Carrier>
+  <Carrier id="219" name="ROGERS_CAN_VOLTE" sha1="69b683432c22ad09c9da8ba6fc442fad55db4feb" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117524480</QualcommRevision>
+    <IINList sizeOf="3" type="uint32">8930272 89302720 89302660</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 720</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="SASKTEL_CAN_IMS" sha1="9cf041e7976136618f71066be076b92dbfd941d1" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">89302780</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 780</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="SASKTEL_CAN_VOLTE" sha1="c25fcff645a8685e71413d65615443b37ae4ed1a" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">89302780</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 780</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="SBM_JPN_VOLTE" sha1="2db61263ed6c3c14986ea189489f4be08b3cb2b8" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117513216</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">898120</IINList>
+    <PLMNList sizeOf="2" type="uint16">440 20</PLMNList>
+  </Carrier>
+  <Carrier id="218" name="SFR_FRA" sha1="5e270dff6f052ff87c33d2c1970e36ea6fa1f154" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">893310</IINList>
+    <PLMNList sizeOf="8" type="uint16">208 9 208 10 208 11 208 13</PLMNList>
+  </Carrier>
+  <Carrier id="218" name="SFR_VOLTE_FRA" sha1="81e83c76cc80bd6e0b92a3d3905ffd7f5fa73300" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117520384</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">893310</IINList>
+    <PLMNList sizeOf="6" type="uint16">208 10 208 11 208 13</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="SINGTEL_SGP" sha1="ad2197d20faaad2dde02c5a513a62b28846a7920" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117519360</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">896501</IINList>
+    <PLMNList sizeOf="2" type="uint16">525 1</PLMNList>
+  </Carrier>
+  <Carrier id="242" name="SMARTFREN_IDN_VOLTE" sha1="65934c71aeb1b8e0e1fdd21ee6718a0f452ad3bc" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">896209 896228</IINList>
+    <PLMNList sizeOf="4" type="uint16">510 9 510 28</PLMNList>
+  </Carrier>
+  <Carrier id="2" name="SPRINT_USA" sha1="a42e681b4e28804b3fcf6be35ab77ae03d7edce9" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506560</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8901120</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 120</PLMNList>
+  </Carrier>
+  <Carrier id="2" name="SPRINT_USA_DEFAULT" sha1="d612380c07b9950948073081f3a969eda55812ae" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506560</QualcommRevision>
+  </Carrier>
+  <Carrier id="2" name="SPRINT_USA_IMS" sha1="ecebb85bd4060025cf8375fdfd7ef35d82fe47b6" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506560</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8901120</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 120</PLMNList>
+  </Carrier>
+  <Carrier id="2" name="SPRINT_USA_IMS_DEFAULT" sha1="9a0fd17b2058dbe25176a3da6689478f9031d751" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506560</QualcommRevision>
+  </Carrier>
+  <Carrier id="254" name="STARHUB_SGP_VOLTE" sha1="372f07ba229cbd773fb37f84a220dbe02281a632" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117519104</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">896505</IINList>
+    <PLMNList sizeOf="2" type="uint16">525 5</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TDC_DNK" sha1="882e29c496c34da15eb9c028a1d022193368cb7c" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117525248</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894501</IINList>
+    <PLMNList sizeOf="2" type="uint16">238 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELCEL_MEX" sha1="f4046c2406aea0b6f03833f69b593cd097c45243" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117511680</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">895202 8952020</IINList>
+    <PLMNList sizeOf="2" type="uint16">334 20</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELE2_NLD" sha1="732938b6dda7d8c2163da9d78d14510df92e3d67" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117523712</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8931422</IINList>
+    <PLMNList sizeOf="2" type="uint16">204 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELE2_RUS" sha1="7905aaf41db0336b2996bfdfbe4974a471b4af82" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8970120</IINList>
+    <PLMNList sizeOf="2" type="uint16">250 20</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELE2_SWE" sha1="3ea787ba382c20f0ff58aede9a70b84cc807ee61" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117523744</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8946100</IINList>
+    <PLMNList sizeOf="2" type="uint16">240 7</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELEKOM_HRV" sha1="950af944f9ff26eae7a97cb060c29864203e1503" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514145</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8938598</IINList>
+    <PLMNList sizeOf="2" type="uint16">219 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELEKOM_HRV_VOLTE" sha1="3b0f32d150308927832a5f169703903e779b03ca" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514145</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8938598</IINList>
+    <PLMNList sizeOf="2" type="uint16">219 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELEKOM_HUN_VOLTE" sha1="728d8a5145de87ab878333e8bea3529dc6c34d71" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">893630</IINList>
+    <PLMNList sizeOf="2" type="uint16">216 30</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELEKOM_SVK_VOLTE" sha1="059e81a4d5b5fd3e17e212703f4c60195d914e55" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8942102</IINList>
+    <PLMNList sizeOf="2" type="uint16">231 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELEKOM_SVN_VOLTE" sha1="886a4bebcf34e158c1b6dba54d5d1ee25c5d7a73" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8938641</IINList>
+    <PLMNList sizeOf="2" type="uint16">293 41</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELENOR_BGR" sha1="e1d04febd794eada3a59585d171ecafa036fd2b7" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8935905</IINList>
+    <PLMNList sizeOf="2" type="uint16">284 5</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELENOR_DNK" sha1="ae8742e53e67c6792b0758442d586f1b317c4804" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117523232</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">894502 894504</IINList>
+    <PLMNList sizeOf="6" type="uint16">238 2 238 66 238 77</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELENOR_NOR" sha1="7ad4264517b4ac918fc70b77186e6a2f50f5d9be" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117523200</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894701</IINList>
+    <PLMNList sizeOf="2" type="uint16">242 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELENOR_SWE" sha1="54e2fd726db57f89130526f128ddad42ddb2984d" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894608</IINList>
+    <PLMNList sizeOf="2" type="uint16">240 8</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELIA_DNK" sha1="7f77fa72bf83645c0d1470c7be719dccffdd789b" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">894504</IINList>
+    <PLMNList sizeOf="2" type="uint16">238 20</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELIA_FIN" sha1="f8da3b961c1bf9e3943cd5d02ecd3d005d19452a" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8935801</IINList>
+    <PLMNList sizeOf="2" type="uint16">244 91</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELIA_NOR" sha1="e5f2195576c71fe989b917dc8be78e468702ea0c" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117515296</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894708</IINList>
+    <PLMNList sizeOf="2" type="uint16">242 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELIA_SWE" sha1="0cd063bb75e51d1a76c4fbd90e558604ad2f121a" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117515264</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894601</IINList>
+    <PLMNList sizeOf="2" type="uint16">240 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELKOM_ZAF" sha1="2768e6a0e428283f22fadad67455688dbd25c334" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">892702</IINList>
+    <PLMNList sizeOf="2" type="uint16">655 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TELSTRA_AUS_VOLTE" sha1="e76d516253080af7966c1c3550d107121f59f5ea" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">896101</IINList>
+    <PLMNList sizeOf="6" type="uint16">505 1 505 71 505 72</PLMNList>
+  </Carrier>
+  <Carrier id="6" name="TELUS_CAN" sha1="17f332b28dcc4aab42b7fb56e50602a684478173" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">891223</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 220</PLMNList>
+  </Carrier>
+  <Carrier id="6" name="TELUS_CAN_IMS" sha1="d5c6d62f80deb2dcbbdbaf3d3be5c7a9c03287e3" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117524736</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">891223</IINList>
+    <PLMNList sizeOf="2" type="uint16">302 220</PLMNList>
+  </Carrier>
+  <Carrier id="224" name="TIM_BRA" sha1="3120adff55750c317febdf4290340ef1185bd46d" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">895502 895503 895504</IINList>
+    <PLMNList sizeOf="6" type="uint16">724 2 724 3 724 4</PLMNList>
+  </Carrier>
+  <Carrier id="224" name="TIM_BRA_VOLTE" sha1="1db7cdd85ab9dbc90835a39e40bc7ce73b4699fd" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">895502 895503 895504</IINList>
+    <PLMNList sizeOf="6" type="uint16">724 2 724 3 724 4</PLMNList>
+  </Carrier>
+  <Carrier id="224" name="TIM_BRA_WFC" sha1="ba2df48f066d6ee92d8fe937df5387725be86534" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">895502 895503 895504</IINList>
+    <PLMNList sizeOf="6" type="uint16">724 2 724 3 724 4</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TIM_ITALY" sha1="ccc688b5628951e400d73504a0dc5fa53038e670" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117517056</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">893901</IINList>
+    <PLMNList sizeOf="2" type="uint16">222 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TMO_CZE" sha1="4978a992c9fc5159f855b918a089bc857611f6d6" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514048</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894201</IINList>
+    <PLMNList sizeOf="2" type="uint16">230 1</PLMNList>
+  </Carrier>
+  <Carrier id="229" name="TMO_DEU" sha1="b9063df1284b3238245cb576fc7f9f9de47a2aad" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514000</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894902</IINList>
+    <PLMNList sizeOf="2" type="uint16">262 1</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TMO_DEU_NONVOLTE" sha1="b9ddae42c9a72bd74c84cff7295d884cb8f4703f" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="5" type="uint32">8935501 8938200 8938901 894003 894303</IINList>
+    <PLMNList sizeOf="8" type="uint16">232 3 276 1 294 1 297 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TMO_NLD_VOLTE" sha1="632646e05958033ed4affdc3b62368e355246131" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8931169</IINList>
+    <PLMNList sizeOf="2" type="uint16">204 16</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TMO_POL" sha1="e0eb74ce1074eab3ff2316310e93ed9b23556f23" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117514112</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894802</IINList>
+    <PLMNList sizeOf="2" type="uint16">260 2</PLMNList>
+  </Carrier>
+  <Carrier id="5" name="TMO_USA" sha1="813dc68372e9cdf4be56c25c256fcd3af7164779" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507328</QualcommRevision>
+    <IINList sizeOf="19" type="uint32">8901026 8901160 8901260 8901490 891160 891200 891210 891220 891230 891240 891250 891260 891270 891310 891490 891660 891800 8944302 8949024</IINList>
+    <PLMNList sizeOf="26" type="uint16">310 160 310 200 310 210 310 220 310 230 310 240 310 250 310 260 310 270 310 310 310 490 310 660 310 800</PLMNList>
+  </Carrier>
+  <Carrier id="5" name="TMO_USA_IMS" sha1="c58b007105f0a5a9c6f25545c89b86312ea724ae" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507328</QualcommRevision>
+    <IINList sizeOf="19" type="uint32">8901026 8901160 8901260 8901490 891160 891200 891210 891220 891230 891240 891250 891260 891270 891310 891490 891660 891800 8944302 8949024</IINList>
+    <PLMNList sizeOf="26" type="uint16">310 160 310 200 310 210 310 220 310 230 310 240 310 250 310 260 310 270 310 310 310 490 310 660 310 800</PLMNList>
+  </Carrier>
+  <Carrier id="5" name="TMO_USA_IMS_DEFAULT" sha1="4914d36e34bd729bd61b836c51b2ac9b94ac3ef9" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507328</QualcommRevision>
+  </Carrier>
+  <Carrier id="5" name="TMO_USA_VIAERO" sha1="12b41c7a7d965e01c47657e7be91bdac8edb1cf6" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507328</QualcommRevision>
+    <IINList sizeOf="19" type="uint32">8901026 8901160 8901260 8901490 891160 891200 891210 891220 891230 891240 891250 891260 891270 891310 891490 891660 891800 8944302 8949024</IINList>
+    <PLMNList sizeOf="2" type="uint16">310 450</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TRUEMOVE_THA" sha1="fc5503ca7b0d342c6919e53a8a35b7cf90e986b9" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518080</QualcommRevision>
+    <IINList sizeOf="3" type="uint32">896604 896699 896600</IINList>
+    <PLMNList sizeOf="4" type="uint16">520 4 520 0</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="TRUEMOVE_THA_VOLTE" sha1="8bf16116dc8e261f5cb0ca1964424a1b60e25a53" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117518080</QualcommRevision>
+    <IINList sizeOf="3" type="uint32">896604 896699 896600</IINList>
+    <PLMNList sizeOf="4" type="uint16">520 4 520 0</PLMNList>
+  </Carrier>
+  <Carrier id="210" name="UK3G_GBR" sha1="3f6c26546887765e46432309706974e51b707511" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117516896</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894420</IINList>
+    <PLMNList sizeOf="6" type="uint16">234 20 235 94 235 94</PLMNList>
+  </Carrier>
+  <Carrier id="32" name="USC_USA" sha1="5dc2b23f15abbfc92d27f2d9a413d0ed0a4f83d5" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117512192</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8901580 8901730</IINList>
+    <PLMNList sizeOf="44" type="uint16">310 730 311 220 311 580 311 220 311 221 311 222 311 223 311 224 311 225 311 226 311 227 311 228 311 229 311 581 311 582 311 583 311 584 311 585 311 586 311 587 311 588 311 589</PLMNList>
+  </Carrier>
+  <Carrier id="32" name="USC_USA_IMS" sha1="ced1c4442ec7cc82ebfa59981c3081f44f63b2d7" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117512192</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">8901580 8901730</IINList>
+    <PLMNList sizeOf="44" type="uint16">310 730 311 220 311 580 311 220 311 221 311 222 311 223 311 224 311 225 311 226 311 227 311 228 311 229 311 581 311 582 311 583 311 584 311 585 311 586 311 587 311 588 311 589</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="VF_CZ" sha1="b62cc8f8e4b16e2de74b48dcbfd8ec93f0ad605b" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507280</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894203</IINList>
+    <PLMNList sizeOf="2" type="uint16">230 3</PLMNList>
+  </Carrier>
+  <Carrier id="230" name="VF_DEU" sha1="7412ab1d189eae9245adfc84406230cc5f637466" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507136</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894920</IINList>
+    <PLMNList sizeOf="2" type="uint16">262 2</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="VF_ESP" sha1="adc2134499ee4a04c89ae3d5a04fee95e75de4d0" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507200</QualcommRevision>
+    <IINList sizeOf="2" type="uint32">893456 893456</IINList>
+    <PLMNList sizeOf="2" type="uint16">214 1</PLMNList>
+  </Carrier>
+  <Carrier id="238" name="VF_GBR_WFC" sha1="090c1939acf023eadf91a84185446a4b67292437" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507104</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">894410</IINList>
+    <PLMNList sizeOf="4" type="uint16">234 15 235 91</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="VF_ITALY" sha1="985b71aa2bd17430ad19d9a7af19f41e36066263" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117507168</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">893910</IINList>
+    <PLMNList sizeOf="2" type="uint16">222 10</PLMNList>
+  </Carrier>
+  <Carrier id="228" name="VHA_AUS_VOLTE" sha1="ab79a3110506edac952bb9faedd79d8f6977a12a" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">896103</IINList>
+    <PLMNList sizeOf="2" type="uint16">505 3</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="VIDEOTRON_CAN_IMS" sha1="a5f662e2c4dd9dd97fe6da5580408030e81f20d0" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8930250</IINList>
+    <PLMNList sizeOf="6" type="uint16">302 500 302 520 302 510</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="VIP_SRB" sha1="40cb591ab751e490232d4e82994f0fe938078096" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8938105</IINList>
+    <PLMNList sizeOf="2" type="uint16">220 5</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="VIVACOM_BGR" sha1="94b029a46c8415d6f8ea00ddeb12feb5ee4de614" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8935903</IINList>
+    <PLMNList sizeOf="2" type="uint16">284 3</PLMNList>
+  </Carrier>
+  <Carrier id="227" name="VIVO_BRA" sha1="d6309dab01ebb614f76ff1b922ae1021f0d5ad81" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="4" type="uint32">895506 895510 895511 895523</IINList>
+    <PLMNList sizeOf="8" type="uint16">724 6 724 10 724 11 724 23</PLMNList>
+  </Carrier>
+  <Carrier id="227" name="VIVO_BRA_VOLTE" sha1="572ad6985e39f2984155664b46913daecc257861" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="4" type="uint32">895506 895510 895511 895523</IINList>
+    <PLMNList sizeOf="8" type="uint16">724 6 724 10 724 11 724 23</PLMNList>
+  </Carrier>
+  <Carrier id="227" name="VIVO_BRA_WFC" sha1="a31b0398f5a5cad8b5327e5e258691270a092bc1" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="4" type="uint32">895506 895510 895511 895523</IINList>
+    <PLMNList sizeOf="8" type="uint16">724 6 724 10 724 11 724 23</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="VODACOM_ZAF" sha1="ff1eafbf02997ed72c44c719b21fb4211985b813" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="3" type="uint32">8965501 893100 894600</IINList>
+    <PLMNList sizeOf="2" type="uint16">655 1</PLMNList>
+  </Carrier>
+  <Carrier id="4" name="VODAFONE_IND_VOLTE" sha1="e6485f9b459299575dca26479d7c9cea36fca24e" version="M8998_MCFG_FLEX_24.45">
+    <PLMNList sizeOf="46" type="uint16">404 1 404 5 404 11 404 13 404 15 404 20 404 27 404 30 404 43 404 46 404 60 404 84 404 86 404 88 405 66 405 67 405 750 405 751 405 752 405 753 405 754 405 755 405 756</PLMNList>
+  </Carrier>
+  <Carrier id="1" name="VZW_USA" sha1="c4dca386feb443c989763d0cc078df339f89798f" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506304</QualcommRevision>
+    <IINList sizeOf="5" type="uint32">891004 891005 891012 891480 8914800</IINList>
+    <PLMNList sizeOf="12" type="uint16">310 590 310 890 311 480 311 270 312 770 1 65535</PLMNList>
+  </Carrier>
+  <Carrier id="1" name="VZW_USA_DEFAULT" sha1="a4ef356c94c0c27abe84ea78c3cc877ee6bd42fa" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506304</QualcommRevision>
+  </Carrier>
+  <Carrier id="1" name="VZW_USA_RETAIL" sha1="d46d499e7caa817ee33167a0ddc761dcf93c32e8" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117506304</QualcommRevision>
+    <IINList sizeOf="5" type="uint32">891004 891005 891012 891480 8914800</IINList>
+    <PLMNList sizeOf="12" type="uint16">310 590 310 890 311 480 311 270 312 770 1 65535</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="WIND_TRE_ITALY" sha1="af4a395f15123fb33db0da06ba17f0e1525b9c33" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="2" type="uint32">893988 893999</IINList>
+    <PLMNList sizeOf="4" type="uint16">222 88 222 99</PLMNList>
+  </Carrier>
+  <Carrier id="220" name="WOM_CHL_NONIMS" sha1="7b13f3d53735513d1e6639379152ad66f1c4e565" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">895609</IINList>
+    <PLMNList sizeOf="2" type="uint16">730 9</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="YTL_MYS" sha1="1275c48c40376985797793fef831f20b6b50363f" version="M8998_MCFG_FLEX_24.45">
+    <QualcommRevision sizeOf="1" type="uint32">117517568</QualcommRevision>
+    <IINList sizeOf="1" type="uint32">8960152</IINList>
+    <PLMNList sizeOf="2" type="uint16">502 152</PLMNList>
+  </Carrier>
+  <Carrier id="254" name="ZAIN_SAU" sha1="49b645b6826c34bc67e44a30534bfd827da09038" version="M8998_MCFG_FLEX_24.45">
+    <IINList sizeOf="1" type="uint32">8996604</IINList>
+    <PLMNList sizeOf="2" type="uint16">420 4</PLMNList>
+  </Carrier>
+</McfgCarrierInfo>
